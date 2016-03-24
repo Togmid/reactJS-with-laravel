@@ -12,6 +12,13 @@ composer install
 ```
 npm install
 ```
+##產生設定檔
+
+```
+mv .env.example .env
+php artisan key:gen
+```
+
 ## 啟動
 
 ```
