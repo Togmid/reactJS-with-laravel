@@ -25,4 +25,4 @@ php artisan key:gen
 php artisan serv
 ```
 
-### 打開 瀏覽器 http://localhost:8080/
+### 打開 瀏覽器 http://localhost:8000/
